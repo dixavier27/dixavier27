@@ -1,4 +1,6 @@
-## Hi there 👋
+## welcome aboard, space cowboy 👋
+
+sharp you code, tight your eyes, enjoy the trip!
 
 <!--
 **dixavier27/dixavier27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
